@@ -1,0 +1,5 @@
+python : guido van rossum
+php : rasmus lerdorf
+java : james gosling
+c : dennis ritchie
+
